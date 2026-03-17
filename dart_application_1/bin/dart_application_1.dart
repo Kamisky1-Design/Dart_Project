@@ -1,7 +1,7 @@
 import 'dart:async';
 
 void main() {
-  /*String days = 'Sunday'; // declaration of variable
+  String days = 'Sunday'; // declaration of variable
 
 //switch statement
   switch (days) { 
@@ -34,10 +34,10 @@ print('It is Saturday. The last day of the week. It is weekend. Time for relaxat
 break;
 
 default:
-print('Unknown day. Please, check your input.'); */
+print('Unknown day. Please, check your input.'); 
 
 
-// if else statement
+/* if else statement
 
   int dayNumber = 3; 
 
@@ -58,6 +58,7 @@ print('Unknown day. Please, check your input.'); */
      }
      else {
       print('Weekend: Rest and review the week.');
+      */
      
   }
 }
