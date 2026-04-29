@@ -6,7 +6,7 @@ void main() {
   //Grow untill plant reaches 150
 
   while(plantHeight < 150) {
-    plantHeight+=10;
+    plantHeight+=20; // plantHeight = plantHeight + 20;
     days++;
     print('day $days: Height = ${plantHeight} cm');
   }
